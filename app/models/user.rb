@@ -4,6 +4,7 @@ class User
 
   def create(username, password, balance)
     @username = username
+    @password = password
 
 
 end
