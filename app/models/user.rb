@@ -1,6 +1,6 @@
 class User < ActiveRecord::Base
 
-  attr_reader :username, :password, :balance
+  # attr_reader :username, :password, :balance
 
   # def create(username, password, balance)
   #   @username = username
