@@ -6,6 +6,7 @@ class User
     @username = username
     @password = password
     @balance = balance
+  end
 
 
 end
